@@ -5,9 +5,9 @@ The Aquapioneers Ecosystem is a thoughtfully crafted fun, educational, and rewar
 
 ![aquaponeers kit](https://i.imgur.com/wF4Udhk.png)
 
-## Aquapioneers ecosystem anatomy
+## Aquapioneers Ecosystem anatomy
 
-![anatomy 1](https://i.imgur.com/icRaAQa.png)
+![anatomy 1](http://aquapioneers.io/wp-content/uploads/2018/10/Screen-Shot-2018-10-25-at-22.04.13.png)
 
 The user manual has been divided into four blocks following the Aquapioneers Ecosystem anatomy to ease its construction, assembly and use.
 
