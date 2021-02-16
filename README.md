@@ -20,9 +20,9 @@ What makes the Aquapioneers kit different from other aquaponics kits, is its ope
 
 The user manual has been divided into four blocks following the Aquapioneers Ecosystem anatomy to ease its construction, assembly and use.
 
-![anatomy 2](http://aquapioneers.io/wp-content/uploads/2018/10/Screen-Shot-2018-10-25-at-19.42.11.png)
+![anatomy 2](https://uploads-ssl.webflow.com/5e9da2a4d328d874a9dbc860/602bb950f512da488d49bfd6_Screen%20Shot%202021-02-16%20at%2013.17.29.png)
 
-The release of this documentation is progressive, meaning that the so far “The Body”, "The Blood" and "The Nervous System" parts have been published. These editions will be regularly updated as a whole to reflect the comments and questions of our community. 
+The release of this documentation is progressive, meaning that the so far “The Body”, "The Blood", "The Nervous System" and "The Life" parts have been published. These editions will be regularly updated as a whole to reflect the comments and questions of our community. 
 
 ## Video tutorials
 
